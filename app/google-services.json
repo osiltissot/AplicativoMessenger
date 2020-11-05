@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556848995431",
+    "firebase_url": "https://aplicativomessenger.firebaseio.com",
+    "project_id": "aplicativomessenger",
+    "storage_bucket": "aplicativomessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556848995431:android:b2da552568746a4bab48c2",
+        "android_client_info": {
+          "package_name": "com.example.aplicativomessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556848995431-jen3gjjrdtsh6c6kj46hf5cbcpau99g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbOQJpprYBjzkukcUHRprpYtPg4oNnqXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556848995431-jen3gjjrdtsh6c6kj46hf5cbcpau99g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
